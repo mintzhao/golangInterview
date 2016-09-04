@@ -4,6 +4,7 @@
 + 手机号码: 1xxxxxxxxxx
 + 联系邮箱: abc@example.com
 + 现在住址: xxxxxx
++ github账号: https://github.com/example
 
 ### 自我评价
 没别的,就是帅
